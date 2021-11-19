@@ -1,0 +1,10 @@
+H:\Visual Studio 2019\Projects\3C1GUILHERME13\3C1GUILHERME13\bin\Debug\3C1GUILHERME13.exe.config
+H:\Visual Studio 2019\Projects\3C1GUILHERME13\3C1GUILHERME13\bin\Debug\3C1GUILHERME13.exe
+H:\Visual Studio 2019\Projects\3C1GUILHERME13\3C1GUILHERME13\bin\Debug\3C1GUILHERME13.pdb
+H:\Visual Studio 2019\Projects\3C1GUILHERME13\3C1GUILHERME13\obj\Debug\3C1GUILHERME13.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\3C1GUILHERME13\3C1GUILHERME13\obj\Debug\_3C1GUILHERME13.Properties.Resources.resources
+H:\Visual Studio 2019\Projects\3C1GUILHERME13\3C1GUILHERME13\obj\Debug\3C1GUILHERME13.csproj.GenerateResource.cache
+H:\Visual Studio 2019\Projects\3C1GUILHERME13\3C1GUILHERME13\obj\Debug\3C1GUILHERME13.exe
+H:\Visual Studio 2019\Projects\3C1GUILHERME13\3C1GUILHERME13\obj\Debug\3C1GUILHERME13.pdb
+H:\Visual Studio 2019\Projects\3C1GUILHERME13\3C1GUILHERME13\obj\Debug\_3C1GUILHERME13.Frm_Oculos.resources
+H:\Visual Studio 2019\Projects\3C1GUILHERME13\3C1GUILHERME13\obj\Debug\_3C1GUILHERME13.Ui.Frm_Login.resources
